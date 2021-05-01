@@ -1,0 +1,19 @@
+    .liststyle {
+        list-style-position: inside;
+    }
+
+    h1 {color: #897853;}
+
+    h2 {color: #4E3620;}
+
+    h3 {color: #C8EED9;}
+
+    p {color: #630000;}
+
+    .fontoblic {
+       font-style: oblique;
+    }
+
+    .fonttype {
+        font-size: 1.2em;
+    }
